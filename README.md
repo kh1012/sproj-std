@@ -1,2 +1,2 @@
-# sproj-std
+# :zap: sproj-std
 base files or imports
